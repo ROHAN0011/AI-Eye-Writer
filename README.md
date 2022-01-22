@@ -8,4 +8,4 @@ The Eye-Writer Project uses Artificial Intelligence, OpenCV, Python, Python Fram
 
 <h1 align="center">Output Screen</h1>
 
-<p align= "center"><img src="https://github.com/ROHAN0011/The-Next-Gen-AI-Eye-Writer/blob/main/Output Screen.jpeg" width="700" height= "350"></p>
+<p align= "center"><img src="https://github.com/AmaanSayyad/The-Next-Gen-AI-Eye-Writer/blob/main/Output Screen.jpeg" width="700" height= "350"></p>
