@@ -1,4 +1,4 @@
-<h1 align="center">The-Next-Gen-AI-Eye-Writer</h1>
+<h1 align="center">AI-Eye-Writer</h1>
 
 The Eye tracking Technique has become one of the most popular techniques within the human and computer interaction era, this is especially important research for people which have difficulty with speech and movement disabilities. The primary function of this technology is based on a device that tracks the movement of the eye to identify a position or scan a display. Suitable devices for eye movement can then be integrated in accordance with the requirements of the organization. Currently, eye tracing devices are becoming increasingly cheaper which make them an interesting resource for research. Although numerous studies have been conducted involving applications of eye tracking with a low-cost device, few studies have compared the actual eye tracking systems themselves.
 
